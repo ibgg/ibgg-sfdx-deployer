@@ -143,4 +143,4 @@ if __name__ == "__main__":
     backup_origin_metadata()    # Backup source org metadata in local directory before deployment
     backup_dest_repo()          # Backup destination metadata in git branch
     backup_origin_repo()        # Backup source org metadata in git branch
-    # deploy_package()            # Deploy package
+    deploy_package()            # Deploy package
